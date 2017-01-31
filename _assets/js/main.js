@@ -306,11 +306,11 @@ jQuery(document).ready(function ($) {
   
   jQuery('.tp-banner').show().revolution(
             {
-             delay:9000,
+             delay:1000,
 							startwidth:1920,
 							startheight:400, //responsiveLevels seems to be a container
 							hideThumbs:10,
-             
+              
               navigationType: "none",
               navigationArrows: "solo",
 							//navigationStyle: "preview1",
