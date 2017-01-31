@@ -284,7 +284,7 @@ jQuery(document).ready(function ($) {
             {
 
 							startwidth:1920,
-							startheight:350, //responsiveLevels seems to be a container
+							startheight:370, //responsiveLevels seems to be a container
 							hideThumbs:10,
               navigationType: "none",
              // responsiveLevels: [2048,1024,778,480]
