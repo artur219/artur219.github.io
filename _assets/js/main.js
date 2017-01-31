@@ -283,8 +283,8 @@ jQuery(document).ready(function ($) {
   jQuery('.tp-banner').show().revolution(
             {
 
-							//startwidth:1920,
-							startheight:300, //responsiveLevels seems to be a container
+							startwidth:1200,
+							//startheight:300, //responsiveLevels seems to be a container
 							hideThumbs:10,
               navigationType: "none",
               responsiveLevels: [2048,1024,778,480]
